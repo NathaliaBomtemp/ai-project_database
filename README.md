@@ -2,7 +2,7 @@
 
 Artificial Intelligence Project
 
-##How to config the project
+## How to config the project
 
 - Install Python: https://www.python.org/downloads/  (with pip variable)
 - clone the project
@@ -10,7 +10,7 @@ Artificial Intelligence Project
     - Recommended extension Python(Microsoft)
 - Install excel library for Python 'pip install openpyxl'
 
-##Install imports
+## Install imports
 
 - 'pip3 install pandas'
 - 'pip3 install matplot lib'
