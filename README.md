@@ -6,7 +6,7 @@ Artificial Intelligence Project;
 
 ## How to config the project
 
-- Install Python: https://www.python.org/downloads/  (with pip variable)
+- Install Python: https://www.python.org/downloads/  (with pip variable).
 - clone the project
 - open the project in the VSCode
     - Recommended extension Python(Microsoft)
