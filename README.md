@@ -12,7 +12,7 @@ Artificial Intelligence and Big Data Project;
     - Recommended extension Python(Microsoft)
 - Install excel library for Python 'pip install openpyxl'
 
-## Install imports
+## Install imports:
 
 - 'pip3 install pandas'
 - 'pip3 install matplot lib'
