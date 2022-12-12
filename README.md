@@ -9,7 +9,7 @@ Artificial Intelligence and Big Data Project;
 - Install Python: https://www.python.org/downloads/  (with pip variable).
 - clone the project
 - open the project in the VSCode
-    - Recommended extension Python(Microsoft)
+    - Recommended extension Python(Microsoft);
 - Install excel library for Python 'pip install openpyxl'
 
 ## Install imports:
