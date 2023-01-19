@@ -1,8 +1,6 @@
-## AI Project Database
+## AI Project Database <img src="https://img.shields.io/badge/In Progress-F2D35B?style=for-the-badge" target="_blank"></a>
 
-Artificial Intelligence and Big Data Project;
-
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" target="_blank"></a>
+Artificial Intelligence and Big Data Project
 
 ## How to config the project
 
