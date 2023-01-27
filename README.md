@@ -12,9 +12,9 @@ Artificial Intelligence and Big Data Project
 
 ## Install imports:
 
-- 'pip3 install pandas'
-- 'pip3 install matplot lib'
-- 'pip install seaborn'
+- `pip3 install pandas`
+- `pip3 install matplot lib`
+- `pip install seaborn`
 
 ## Author
 <table align="center">
